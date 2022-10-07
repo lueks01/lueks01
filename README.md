@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lukhaya Goniwe @lueks01
 - 👀 I’m interested in software development
-- 🌱 I’m Through with freecode camp resposive web design and I am currently the TOP
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m Through with freecode camp resposive web design and I am currently doing the TOP
+- 💞️ I’m looking to collaborate on front-end so far..
 - 📫 How to reach me lukhayagoniwe@gmail.com
 
 <!---
